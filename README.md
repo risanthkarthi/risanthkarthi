@@ -1,29 +1,57 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Varsini</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Risanth</h1>
 
 <br>
 
-<p><img align="right" style="height:350px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
+<p><img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"></p>
 
 <br>
 
-- 👩🏻‍💻 Currently pursuing B.Tech Information Technology 3rd year at K.S.Rangasamy College Of Technology
-- 💻 Aspiring full-stack developer and tech enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in cloud technologies and AI integration.
-- 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
-- 🌱 I’m currently learning DSA
-- 🤔 I’m looking for help with Placements in FAANG
+👨🏻‍💻 Currently pursuing B.E. in **Electronics and Communication Engineering (ECE)**, final year, at **K.S.Rangasamy College of Technology**, Tiruchengode, Tamil Nadu.
+
+💻 Aspiring full-stack developer and tech enthusiast, with a passion for hardware engineering and embedded systems. I am well-versed in both software and hardware technologies and have a growing interest in cloud computing and AI integration.
+
+🌱 Currently expanding my knowledge in **Data Structures and Algorithms (DSA)** and seeking placement opportunities at top-tier tech companies.
+
+🤝 Looking for guidance in securing placements at FAANG companies and opportunities to further develop my technical skills.
+
+📧 Reach me at **risanthkece2022@ksrce.ac.in** | **9952451407**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/risanth-k-129690259) | [GitHub](https://github.com/risanthkarthi)
+
 
 ---
 
 ## 💻 Experience
 
-### 💻 Microsoft Pvt. Ltd. | Web Development Intern  
-March 2024 - June 2024 | Hyderabad, Telangana
+### 💻 MathWorks India Pvt. Ltd. | Software Engineer Intern  
+May 2023 - September 2023 | Bangalore
 
-- Built a web application integrated with Microsoft Azure services, leveraging *Azure Blob Storage, **Azure Core Services, and **Azure AI Services*.
-- Implemented a *compliance target* using *Azure Static Web App* and *AI Health Bot*, emphasizing my cloud-based development skills.
-- Designed an intelligent chatbot for customer engagement, optimizing the user experience.  
-- *Tech Stack:* HTML, CSS, JavaScript, React, Node Js, Azure Core Services, Azure AI Services | *Database:* Azure Blob Storage  
-- [Certificate](https://drive.google.com/file/d/1gA_07rdQcCBek_F5rDaEcsPztynm8IXq/view)
+- Completed the MathWorks Virtual Internship Program endorsed by AICTE, specializing in *Artificial Intelligence (AI)*.
+- Gained expertise in *AI development*, with hands-on experience using *TensorFlow* and *PyTorch* to build and train AI models.
+- Developed a foundational understanding of *AI fundamentals* and applied these skills in practical projects, showcasing proficiency in AI technology.
+- *Tech Stack:* Python, TensorFlow, PyTorch | *Tools:* AI fundamentals
+
+### 💻 Salesforce India Pvt. Ltd. | Software Engineer Intern  
+November 2023 - January 2024 | Bangalore
+
+- Demonstrated proficiency in *Salesforce development* through the completion of an intensive internship, focusing on *Salesforce Fundamentals* and *Process Automation Specialist training*.
+- Applied knowledge in *Apex* and *Lightning Web Components (LWC)* to build robust Salesforce solutions.
+- Gained hands-on experience with *Salesforce CRM* and *Trailhead*, successfully delivering modules on *Organizational Setup* and *Process Automation*.
+- *Tech Stack:* Apex, Lightning Web Components (LWC), Salesforce CRM
+
+### 💻 Dreamwork Digital Solution Pvt. Ltd. | Software Engineer Intern  
+June 2023 - June 2023 | Erode
+
+- Successfully completed in-plant training in *Networking*, showcasing adeptness in practical networking concepts and techniques.
+- Applied hands-on knowledge in *Linux* and *Python* to demonstrate proficiency in networking and system administration tasks.
+- *Tech Stack:* Linux, Python
+
+### 💻 Embuzz Technologies Pvt. Ltd. | Hardware Engineer Intern  
+January 2023 - January 2023 | Coimbatore
+
+- Acquired mastery in *Logical GPIO Concepts* during a dynamic 20-hour internship, gaining hands-on experience in embedded systems and hardware programming.
+- Demonstrated active engagement in learning and applying *Embedded C* for hardware projects.
+- *Tech Stack:* Embedded C, Hardware Programming
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -41,8 +69,8 @@ March 2024 - June 2024 | Hyderabad, Telangana
 
 ## 🎓 Education
 
-*KSR College of Technology*  
-B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92  
+*KSR College of Engineering*  
+B.E. in **Electronics and Communication Engineering (ECE)** | Tiruchengode, Tamil Nadu | GPA: 8.9 
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -51,8 +79,8 @@ B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92
   
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsini0304/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varsinimarimuthu03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risanth34/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:risanthkarthi@gmail.com)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
