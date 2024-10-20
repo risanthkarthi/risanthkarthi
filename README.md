@@ -6,7 +6,7 @@
 
 <br>
 
-👨🏻‍💻 Currently pursuing B.E. in **Electronics and Communication Engineering (ECE)**, final year, at **K.S.Rangasamy College of Technology**, Tiruchengode, Tamil Nadu.
+👨🏻‍💻 Currently pursuing B.E. in **Electronics and Communication Engineering (ECE)**, final year, at **K.S.R College of Engineering**, Tiruchengode, Tamil Nadu.
 
 💻 Aspiring full-stack developer and tech enthusiast, with a passion for hardware engineering and embedded systems. I am well-versed in both software and hardware technologies and have a growing interest in cloud computing and AI integration.
 
@@ -110,8 +110,7 @@ B.E. in **Electronics and Communication Engineering (ECE)** | Tiruchengode, Tami
 <br>
 
 ### Activity Graph
-[![Varsini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarsiniMarimuthu&bg_color=100f0f&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=risanthkarthi&bg_color=060505&color=ffffff&line=00eb5a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
