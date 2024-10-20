@@ -16,20 +16,12 @@
 
 📧 Reach me at **risanthkece2022@ksrce.ac.in** | **9952451407**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/risanth-k-129690259) | [GitHub](https://github.com/risanthkarthi)
+🔗 [LinkedIn](https://www.linkedin.com/in/risanth34/) | [GitHub](https://github.com/risanthkarthi)
 
 
 ---
 
 ## 💻 Experience
-
-### 💻 MathWorks India Pvt. Ltd. | Software Engineer Intern  
-May 2023 - September 2023 | Bangalore
-
-- Completed the MathWorks Virtual Internship Program endorsed by AICTE, specializing in *Artificial Intelligence (AI)*.
-- Gained expertise in *AI development*, with hands-on experience using *TensorFlow* and *PyTorch* to build and train AI models.
-- Developed a foundational understanding of *AI fundamentals* and applied these skills in practical projects, showcasing proficiency in AI technology.
-- *Tech Stack:* Python, TensorFlow, PyTorch | *Tools:* AI fundamentals
 
 ### 💻 Salesforce India Pvt. Ltd. | Software Engineer Intern  
 November 2023 - January 2024 | Bangalore
@@ -39,12 +31,9 @@ November 2023 - January 2024 | Bangalore
 - Gained hands-on experience with *Salesforce CRM* and *Trailhead*, successfully delivering modules on *Organizational Setup* and *Process Automation*.
 - *Tech Stack:* Apex, Lightning Web Components (LWC), Salesforce CRM
 
-### 💻 Dreamwork Digital Solution Pvt. Ltd. | Software Engineer Intern  
-June 2023 - June 2023 | Erode
-
-- Successfully completed in-plant training in *Networking*, showcasing adeptness in practical networking concepts and techniques.
-- Applied hands-on knowledge in *Linux* and *Python* to demonstrate proficiency in networking and system administration tasks.
-- *Tech Stack:* Linux, Python
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 ### 💻 Embuzz Technologies Pvt. Ltd. | Hardware Engineer Intern  
 January 2023 - January 2023 | Coimbatore
@@ -122,13 +111,6 @@ B.E. in **Electronics and Communication Engineering (ECE)** | Tiruchengode, Tami
 
 ### Activity Graph
 [![Varsini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarsiniMarimuthu&bg_color=100f0f&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
-
-### LeetCode Stats
-![Varsini's LeetCode Stats](https://leetcard.jacoblin.cool/Varsini_M?theme=dark&font=Marcellus&ext=heatmap)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
